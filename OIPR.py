@@ -73,7 +73,7 @@ class OIPR():
         if self.l_obs == 'auto':
             self.l_obs = math.ceil(avg_len)
         if self.l_dis == 'auto':
-            self.l_dis = math.ceil(avg_len / 2)
+            self.l_dis = math.ceil(avg_len / 4)
         return
     
     def load_pred_events(self, pred):

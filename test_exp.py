@@ -31,6 +31,7 @@ if __name__ == "__main__":
                     'TP position (c1)',
                     'TP position (c2)',
                     'TP position (c3)',
+                    'TP position (c4)',
                     'long anomaly effect (c1)',
                     'long anomaly effect (c2)',
                     'long anomaly effect (c3)',
